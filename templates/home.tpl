@@ -49,6 +49,8 @@
 									<img src="{categories.posts.user.picture}" title="{categories.posts.user.username}" class="pull-left user-img" />
 								</a>
 								<div class="content">
+									<strong><a href="{relative_path}/topic/{categories.posts.topic.slug}">{categories.posts.topic.title}</a></strong>
+									<hr/>
 									{categories.posts.content}
 									<p class="fade-out"></p>
 								</div>
