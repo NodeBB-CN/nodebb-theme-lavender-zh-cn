@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-theme-lavender",
+  "name": "nodebb-theme-lavender-zh-cn",
   "version": "0.0.68",
-  "description": "Lavender Theme for NodeBB",
+  "description": "Lavender Theme for NodeBB, modify for zh-CN",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-lavender"
+    "url": "https://github.com/NodeBB-CN/nodebb-theme-lavender-zh-cn"
   },
   "keywords": [
     "nodebb",

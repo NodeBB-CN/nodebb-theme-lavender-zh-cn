@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-lavender",
-    "name": "Lavender Theme for NodeBB",
+    "id": "nodebb-theme-lavender-zh-cn",
+    "name": "Lavender Theme for NodeBB (Chinese Version)",
     "description": "A simple theme for NodeBB. Check out the theming guide that accompanies this work at http://burnaftercompiling.com",
     "url": "https://www.github.com/psychobunny/nodebb-theme-lavender",
     "screenshot": "screenshot.png",
